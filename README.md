@@ -6,6 +6,6 @@ Practicing algorithms and implementing them in various languages, let's see how 
 
 #### Easy-PZ
 
-[ ] Factorials
-    [x] Java
-    [ ] C++
+- [ ] Factorials
+    - [x] Java
+    - [ ] C++
