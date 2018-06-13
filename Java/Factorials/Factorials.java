@@ -14,7 +14,7 @@ public class Factorials{
 	}
 
 	public static void main(String[] args){
-        int toTestFrom = 1;
+        int toTestFrom = 0;
         int toTestUntil = 50;
 
         while(toTestFrom <= toTestUntil){
